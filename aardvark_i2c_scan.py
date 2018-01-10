@@ -9,7 +9,7 @@ prints them.
 
 Dependency:
 OS:Windows
-Others: Aardvark Drivers should be intalled.
+Others: Aardvark Drivers should be installed.
 """
 
 import pyaardvark
